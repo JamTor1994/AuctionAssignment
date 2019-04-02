@@ -1,0 +1,23 @@
+{
+  "name": "AUCTIONASSIGNMENT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createBid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamTor1994/AuctionAssignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamTor1994/AuctionAssignment/issues"
+  },
+  "homepage": "https://github.com/JamTor1994/AuctionAssignment#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  }
+}
