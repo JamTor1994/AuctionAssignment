@@ -1,3 +1,3 @@
 var mysql = require("mysql");
 var inquirer = require("inquirer");
-var makeItem = require("makeItem.js");
+var makeItem = require("./makeItem");

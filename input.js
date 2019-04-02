@@ -1,4 +1,4 @@
 var inquirer = require("inquirer");
-var createBid = require("createBid.js");
-var makeItem = require("makeItem.js");
+var createBid = require("./createBid");
+var makeItem = require("./makeItem");
 var mysql = require("mysql");
